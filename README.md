@@ -17,7 +17,7 @@ Several machine learning models were implemented and compared:
 ## Best Performing Model
 The Logistic Regression model exhibited the highest accuracy among the evaluated models. While accuracy was 0.8309679767103348, considerations for precision, recall, and F1 score are advisable based on specific project requirements.
 
-![Logistic Regression Accuracy](path/to/Logistic_regression_accuracy.png)
+![Logistic Regression Accuracy](Logistic_regression_accuracy.png)
 
 ## Usage
 To use the sentiment analysis model:
