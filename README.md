@@ -10,12 +10,14 @@ The labeled dataset used in this project includes examples of words/phrases with
 Several machine learning models were implemented and compared:
 
 1. **Baseline Model:** A simple baseline model to establish performance benchmarks.
-2. **Logistic Regression:** A linear model for binary and multiclass classification.
+2. **Logistic Regression:** A linear model for binary and multiclass classification. The model achieved an accuracy of 83.10%.
 3. **Decision Tree:** A non-linear model making decisions based on a tree-like graph.
 4. **Random Forest:** An ensemble model of decision trees for enhanced accuracy and generalization.
 
 ## Best Performing Model
-The Logistic Regression model exhibited the highest accuracy among the evaluated models. While accuracy was the primary metric, considerations for precision, recall, and F1 score are advisable based on specific project requirements.
+The Logistic Regression model exhibited the highest accuracy among the evaluated models. While accuracy was 0.8309679767103348, considerations for precision, recall, and F1 score are advisable based on specific project requirements.
+
+![Logistic Regression Accuracy](path/to/logistic_regression_accuracy_plot.png)
 
 ## Usage
 To use the sentiment analysis model:
