@@ -19,6 +19,7 @@ The Logistic Regression model exhibited the highest accuracy among the evaluated
 
 ##Image
 visual representations of model performance.
+
 ![Logistic Regression Accuracy](Logistic_regression_accuracy.png)
 
 ## Usage
